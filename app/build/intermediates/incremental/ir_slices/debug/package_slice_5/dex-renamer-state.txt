@@ -1,0 +1,4 @@
+#Sat Apr 20 01:28:51 EDT 2019
+base.0=C\:\\Users\\admin\\Desktop\\Android\\RankQuest_App-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\5
+path.0=classes.dex
+renamed.0=classes.dex

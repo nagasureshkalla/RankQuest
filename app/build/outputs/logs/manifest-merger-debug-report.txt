@@ -1,0 +1,597 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-graphview-4.2.1.aar\cefb15f53f1fd3bc9723f94fc5ac3604\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.2.0.aar\d0026be2ecb5fb22377bbace40e42cb8\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\38cdacea0123318a9a7248b974d1bb3d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gass-17.2.0.aar\46391105ba2a48a8b7c9195e97d9f6ba\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\86f36b06fb17b82141ad58a73a2c3215\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7c126fe1695bc043a683f1aba57254d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\a15a80c6414ec183310c070015a52007\AndroidManifest.xml:2:1-20:12
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-materialsearchview-1.4.0.aar\c8fe3222e5eb8743c049d02ccaa20f2b\AndroidManifest.xml:2:1-13:12
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-recyclerview-multiselect-0.2.aar\227c1bfd151aa4daec8668979c157030\AndroidManifest.xml:2:1-11:12
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\ae5d18787c207be3d038f9649fa9dbbe\AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\0fac7a92a7ddc180cbcd30104be6edc7\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha04.aar\423a6558438146a095d065d829efd324\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0d6d69de9a430273e38ba4dbd6bd9b89\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\228953653e398b7e8b5c5c9978c83f3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\9b8a88276a8993704ccbd53cc6fb2e51\AndroidManifest.xml:17:1-22:12
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\flowingdrawer-core-2.0.0.aar\e4c730e8b758a48b199954e5e990befb\AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\eazegraph-1.2.2.aar\afd29ac35d614231026ab58af9a2bd8e\AndroidManifest.xml:2:1-14:12
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\8f0f18b41f40f622dbdad45a561c51b7\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-shimmer-0.4.0.aar\23d4e45c37ebd3404bc2afa3931bb065\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ea451fa54da9d77f0dcf58d992c089e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\6601c1e4744ee925fa507ba7cb3c60e3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\fc4715a3eb2b09011d9654c35db3a8ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\122fe22284b13090243fd08688cd1f84\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha06.aar\60d4b97e73931cdb5d6041dc6c6ce5d3\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha04.aar\1b5e3278e305d1f427732b03fc38092e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3f4fc10fddd90e817f2cc78b78ca5b46\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\3d6144c37aa243b082dbf94a66b0578b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\e84de8835fe9e00b20397eae4e4796ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-alpha01.aar\0794708a930a8ce392523307783fc519\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\f11f190f1bdb86408888c8870c795320\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\159114f6ed511c5a2f057cea768c91ff\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12a05d84207993699cdc0678f51d748f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c99cff7c00215e9e924224cf16fcaa20\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\fc9713ce5f9f7b1304e1bfd2380e4458\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b265b09a64bd2ed371d42eee7fd4f3f\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ffeeb3402c413b92d942e265f2fe9051\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha06.aar\e95087d1b8e5370c3210198d9a5de4c7\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2b3052d45b41c7b4a51272ef4195209\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e1a26b4c2cf030ef3f4fb2dab96e37bd\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\670362a567e4888df8adf2e5bd38ff8e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\47dffdce6fa1a58fcfa237a8409284ae\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\16f51b68796eac074dbc70f5e9ff4061\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\a2dbbe812aff4378f1fcd75aed96168e\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\aadaedba5cbbdaef6b23d4e43cae3219\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha04.aar\279d1b7089e4b991c9689ddedf671910\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-alpha02.aar\676f258913451623cba3362eb5e119b0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3f5d4cf3549dd70a26420e9aad1b769e\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c41bac1bcbdc0e1dd34921a02beab2b\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha04.aar\8e8ca190e8e6c2f5e5545c99fe57bd34\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\a9cf9c568d3b80bdae87783f68bd1976\AndroidManifest.xml:2:1-9:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+	package
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:1-163:12
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:6:5-76
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:6:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:7:22-76
+application
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:9:5-162:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-graphview-4.2.1.aar\cefb15f53f1fd3bc9723f94fc5ac3604\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-graphview-4.2.1.aar\cefb15f53f1fd3bc9723f94fc5ac3604\AndroidManifest.xml:11:5-12:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\38cdacea0123318a9a7248b974d1bb3d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\38cdacea0123318a9a7248b974d1bb3d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:26:5-40:19
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gass-17.2.0.aar\46391105ba2a48a8b7c9195e97d9f6ba\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gass-17.2.0.aar\46391105ba2a48a8b7c9195e97d9f6ba\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:27:5-28:19
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\86f36b06fb17b82141ad58a73a2c3215\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\86f36b06fb17b82141ad58a73a2c3215\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-materialsearchview-1.4.0.aar\c8fe3222e5eb8743c049d02ccaa20f2b\AndroidManifest.xml:11:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-materialsearchview-1.4.0.aar\c8fe3222e5eb8743c049d02ccaa20f2b\AndroidManifest.xml:11:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-recyclerview-multiselect-0.2.aar\227c1bfd151aa4daec8668979c157030\AndroidManifest.xml:9:5-20
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-recyclerview-multiselect-0.2.aar\227c1bfd151aa4daec8668979c157030\AndroidManifest.xml:9:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\ae5d18787c207be3d038f9649fa9dbbe\AndroidManifest.xml:11:5-20
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\ae5d18787c207be3d038f9649fa9dbbe\AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\0fac7a92a7ddc180cbcd30104be6edc7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\0fac7a92a7ddc180cbcd30104be6edc7\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0d6d69de9a430273e38ba4dbd6bd9b89\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0d6d69de9a430273e38ba4dbd6bd9b89\AndroidManifest.xml:9:5-20
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\eazegraph-1.2.2.aar\afd29ac35d614231026ab58af9a2bd8e\AndroidManifest.xml:11:5-12:19
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\eazegraph-1.2.2.aar\afd29ac35d614231026ab58af9a2bd8e\AndroidManifest.xml:11:5-12:19
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\a2dbbe812aff4378f1fcd75aed96168e\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\a2dbbe812aff4378f1fcd75aed96168e\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\a9cf9c568d3b80bdae87783f68bd1976\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\a9cf9c568d3b80bdae87783f68bd1976\AndroidManifest.xml:7:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:12:9-34
+	android:roundIcon
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:15:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:16:9-44
+activity#com.example.admin.data.examPolycet.Polycet_Statastics_Graphs
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:17:9-84
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:17:19-72
+activity#com.example.admin.data.examPgecet.Pgcet_Statastics_Graphs
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:18:9-72
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:18:19-69
+activity#com.example.admin.data.examEcet.Ecet_Statastics_Graphs
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:19:9-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:19:19-66
+activity#com.example.admin.data.Homepage.Nit
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:20:9-50
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:20:19-47
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:22:9-24:70
+	android:value
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:24:13-67
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:23:13-69
+activity#com.example.admin.data.Homepage.SplashScreen
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:26:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:28:13-49
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:27:13-50
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:29:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:30:25-66
+action#android.intent.action.VIEW
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:32:27-74
+activity#com.example.admin.data.Homepage.MainActivity
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:35:9-39:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:39:13-49
+	android:configChanges
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:37:13-48
+	android:icon
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:38:13-61
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:36:13-50
+activity#com.example.admin.data.Homepage.Eamcet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:40:9-44:55
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:43:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:42:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:44:13-52
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:41:13-44
+activity#com.example.admin.data.Homepage.Polycet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:45:9-49:55
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:48:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:47:13-36
+	android:windowSoftInputMode
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:49:13-52
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:46:13-45
+activity#com.example.admin.data.Homepage.Icet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:50:9-54:55
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:53:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:52:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:54:13-52
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:51:13-42
+activity#com.example.admin.data.Homepage.Ecet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:55:9-59:55
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:57:13-33
+	android:windowSoftInputMode
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:59:13-52
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:56:13-42
+activity#com.example.admin.data.Homepage.Pgcet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:60:9-64:55
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:63:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:62:13-35
+	android:windowSoftInputMode
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:64:13-52
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:61:13-43
+activity#com.example.admin.data.Homepage.Developers
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:65:9-68:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:68:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:67:13-39
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:66:13-48
+activity#com.example.admin.data.Homepage.Feedback
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:69:9-72:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:72:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:71:13-37
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:70:13-46
+activity#com.example.admin.data.Homepage.Websites
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:73:9-76:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:76:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:75:13-37
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:74:13-46
+activity#com.example.admin.data.examEamcet.Eamcet_Cutoff_Result
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:77:9-80:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:80:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:79:13-42
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:78:13-60
+activity#com.example.admin.data.examPgecet.Pgcet_Colleges_Details
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:81:9-84:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:84:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:83:13-48
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:82:13-62
+activity#com.example.admin.data.examEamcet.Eamcet_Colleges_Details
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:85:9-88:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:88:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:87:13-48
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:86:13-63
+activity#com.example.admin.data.examEamcet.Select
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:89:9-92:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:92:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:91:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:90:13-46
+activity#com.example.admin.data.examEamcet.Cutoff_Select_Colleges
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:93:9-96:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:96:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:95:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:94:13-62
+activity#com.example.admin.data.Homepage.Login
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:97:9-101:59
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:100:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:99:13-34
+	android:theme
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:101:13-56
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:98:13-43
+activity#com.example.admin.data.Homepage.Register
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:102:9-105:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:105:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:104:13-41
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:103:13-46
+activity#com.example.admin.data.Homepage.Survey
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:106:9-109:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:109:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:108:13-36
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:107:13-44
+activity#com.example.admin.data.Homepage.SurveyViewDetails
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:110:9-113:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:113:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:112:13-43
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:111:13-55
+activity#com.example.admin.data.examPolycet.Polcet_Colleges_Details
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:114:9-117:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:117:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:116:13-48
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:115:13-64
+activity#com.example.admin.data.examPolycet.SelectBranchesPolycet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:118:9-121:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:121:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:120:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:119:13-62
+activity#com.example.admin.data.examPolycet.Cutoff_Select_Colleges_Polycet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:122:9-125:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:125:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:124:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:123:13-71
+activity#com.example.admin.data.examPolycet.Polycet_Cutoff_Result
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:126:9-129:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:129:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:128:13-43
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:127:13-62
+activity#com.example.admin.data.examPgecet.SelectBranchesPgcet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:130:9-133:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:133:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:132:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:131:13-59
+activity#com.example.admin.data.examPgecet.Cutoff_Select_Colleges_Pgcet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:134:9-137:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:137:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:136:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:135:13-68
+activity#com.example.admin.data.examPgecet.Pgcet_Cutoff_Result
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:138:9-141:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:141:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:140:13-43
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:139:13-59
+activity#com.example.admin.data.examEamcet.Emcet_Statastics_Graphs
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:142:9-145:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:145:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:144:13-30
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:143:13-63
+activity#com.example.admin.data.examEcet.Ecet_Colleges_Details
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:146:9-149:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:149:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:148:13-48
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:147:13-59
+activity#com.example.admin.data.examEcet.SelectBranchesEcet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:150:9-153:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:153:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:152:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:151:13-56
+activity#com.example.admin.data.examEcet.Cutoff_Select_Colleges_Ecet
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:154:9-157:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:157:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:156:13-44
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:155:13-65
+activity#com.example.admin.data.examEcet.Ecet_Cutoff_Result
+ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:158:9-161:52
+	android:screenOrientation
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:161:13-49
+	android:label
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:160:13-40
+	android:name
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml:159:13-56
+uses-sdk
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-graphview-4.2.1.aar\cefb15f53f1fd3bc9723f94fc5ac3604\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-graphview-4.2.1.aar\cefb15f53f1fd3bc9723f94fc5ac3604\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.2.0.aar\d0026be2ecb5fb22377bbace40e42cb8\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.2.0.aar\d0026be2ecb5fb22377bbace40e42cb8\AndroidManifest.xml:21:5-23:52
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\38cdacea0123318a9a7248b974d1bb3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-identifier-16.0.0.aar\38cdacea0123318a9a7248b974d1bb3d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gass-17.2.0.aar\46391105ba2a48a8b7c9195e97d9f6ba\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-gass-17.2.0.aar\46391105ba2a48a8b7c9195e97d9f6ba\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\86f36b06fb17b82141ad58a73a2c3215\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-base-16.3.0.aar\86f36b06fb17b82141ad58a73a2c3215\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7c126fe1695bc043a683f1aba57254d\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-v4-1.0.0.aar\f7c126fe1695bc043a683f1aba57254d\AndroidManifest.xml:20:5-44
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\a15a80c6414ec183310c070015a52007\AndroidManifest.xml:16:5-18:41
+MERGED from [com.github.PhilJay:MPAndroidChart:v3.1.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\MPAndroidChart-v3.1.0.aar\a15a80c6414ec183310c070015a52007\AndroidManifest.xml:16:5-18:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-materialsearchview-1.4.0.aar\c8fe3222e5eb8743c049d02ccaa20f2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-materialsearchview-1.4.0.aar\c8fe3222e5eb8743c049d02ccaa20f2b\AndroidManifest.xml:7:5-9:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-recyclerview-multiselect-0.2.aar\227c1bfd151aa4daec8668979c157030\AndroidManifest.xml:5:5-7:41
+MERGED from [com.bignerdranch.android:recyclerview-multiselect:0.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-recyclerview-multiselect-0.2.aar\227c1bfd151aa4daec8668979c157030\AndroidManifest.xml:5:5-7:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\ae5d18787c207be3d038f9649fa9dbbe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.futuremind.recyclerfastscroll:fastscroll:0.2.5] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-fastscroll-0.2.5.aar\ae5d18787c207be3d038f9649fa9dbbe\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\0fac7a92a7ddc180cbcd30104be6edc7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\material-1.1.0-alpha05.aar\0fac7a92a7ddc180cbcd30104be6edc7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha04.aar\423a6558438146a095d065d829efd324\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-1.1.0-alpha04.aar\423a6558438146a095d065d829efd324\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0d6d69de9a430273e38ba4dbd6bd9b89\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\constraintlayout-1.1.3.aar\0d6d69de9a430273e38ba4dbd6bd9b89\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\228953653e398b7e8b5c5c9978c83f3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\recyclerview-1.1.0-alpha01.aar\228953653e398b7e8b5c5c9978c83f3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\9b8a88276a8993704ccbd53cc6fb2e51\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cardview-1.0.0.aar\9b8a88276a8993704ccbd53cc6fb2e51\AndroidManifest.xml:20:5-44
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\flowingdrawer-core-2.0.0.aar\e4c730e8b758a48b199954e5e990befb\AndroidManifest.xml:8:5-10:41
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\flowingdrawer-core-2.0.0.aar\e4c730e8b758a48b199954e5e990befb\AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\eazegraph-1.2.2.aar\afd29ac35d614231026ab58af9a2bd8e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.blackfizz:eazegraph:1.2.2] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\eazegraph-1.2.2.aar\afd29ac35d614231026ab58af9a2bd8e\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\8f0f18b41f40f622dbdad45a561c51b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.ybq:Android-SpinKit:1.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\Android-SpinKit-1.2.0.aar\8f0f18b41f40f622dbdad45a561c51b7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-shimmer-0.4.0.aar\23d4e45c37ebd3404bc2afa3931bb065\AndroidManifest.xml:5:5-44
+MERGED from [com.facebook.shimmer:shimmer:0.4.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-shimmer-0.4.0.aar\23d4e45c37ebd3404bc2afa3931bb065\AndroidManifest.xml:5:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ea451fa54da9d77f0dcf58d992c089e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\media-1.0.0.aar\ea451fa54da9d77f0dcf58d992c089e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\6601c1e4744ee925fa507ba7cb3c60e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\browser-1.0.0.aar\6601c1e4744ee925fa507ba7cb3c60e3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\fc4715a3eb2b09011d9654c35db3a8ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-ui-1.0.0.aar\fc4715a3eb2b09011d9654c35db3a8ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\122fe22284b13090243fd08688cd1f84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\legacy-support-core-utils-1.0.0.aar\122fe22284b13090243fd08688cd1f84\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha06.aar\60d4b97e73931cdb5d6041dc6c6ce5d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\fragment-1.1.0-alpha06.aar\60d4b97e73931cdb5d6041dc6c6ce5d3\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha04.aar\1b5e3278e305d1f427732b03fc38092e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\appcompat-resources-1.1.0-alpha04.aar\1b5e3278e305d1f427732b03fc38092e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3f4fc10fddd90e817f2cc78b78ca5b46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\drawerlayout-1.0.0.aar\3f4fc10fddd90e817f2cc78b78ca5b46\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\3d6144c37aa243b082dbf94a66b0578b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-1.1.0-alpha01.aar\3d6144c37aa243b082dbf94a66b0578b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\e84de8835fe9e00b20397eae4e4796ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\transition-1.0.1.aar\e84de8835fe9e00b20397eae4e4796ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-alpha01.aar\0794708a930a8ce392523307783fc519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-animated-1.1.0-alpha01.aar\0794708a930a8ce392523307783fc519\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\f11f190f1bdb86408888c8870c795320\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0-alpha01] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\vectordrawable-1.1.0-alpha01.aar\f11f190f1bdb86408888c8870c795320\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\159114f6ed511c5a2f057cea768c91ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\loader-1.0.0.aar\159114f6ed511c5a2f057cea768c91ff\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12a05d84207993699cdc0678f51d748f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\viewpager-1.0.0.aar\12a05d84207993699cdc0678f51d748f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c99cff7c00215e9e924224cf16fcaa20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-1.0.0.aar\c99cff7c00215e9e924224cf16fcaa20\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\fc9713ce5f9f7b1304e1bfd2380e4458\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\customview-1.0.0.aar\fc9713ce5f9f7b1304e1bfd2380e4458\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b265b09a64bd2ed371d42eee7fd4f3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-1.0.0.aar\6b265b09a64bd2ed371d42eee7fd4f3f\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ffeeb3402c413b92d942e265f2fe9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-1.0.0.aar\ffeeb3402c413b92d942e265f2fe9051\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha06.aar\e95087d1b8e5370c3210198d9a5de4c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0-alpha06] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\activity-1.0.0-alpha06.aar\e95087d1b8e5370c3210198d9a5de4c7\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0-alpha05] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-1.1.0-alpha05.aar\8944cf0f51ebe55398c4854fec4f122b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2b3052d45b41c7b4a51272ef4195209\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\cursoradapter-1.0.0.aar\e2b3052d45b41c7b4a51272ef4195209\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e1a26b4c2cf030ef3f4fb2dab96e37bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\documentfile-1.0.0.aar\e1a26b4c2cf030ef3f4fb2dab96e37bd\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\670362a567e4888df8adf2e5bd38ff8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-1.0.0.aar\670362a567e4888df8adf2e5bd38ff8e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\47dffdce6fa1a58fcfa237a8409284ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\print-1.0.0.aar\47dffdce6fa1a58fcfa237a8409284ae\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\16f51b68796eac074dbc70f5e9ff4061\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\interpolator-1.0.0.aar\16f51b68796eac074dbc70f5e9ff4061\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\a2dbbe812aff4378f1fcd75aed96168e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\versionedparcelable-1.1.0-alpha02.aar\a2dbbe812aff4378f1fcd75aed96168e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\aadaedba5cbbdaef6b23d4e43cae3219\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-2.0.0.aar\aadaedba5cbbdaef6b23d4e43cae3219\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha04.aar\279d1b7089e4b991c9689ddedf671910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-runtime-2.1.0-alpha04.aar\279d1b7089e4b991c9689ddedf671910\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-alpha02.aar\676f258913451623cba3362eb5e119b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0-alpha02] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\savedstate-1.0.0-alpha02.aar\676f258913451623cba3362eb5e119b0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3f5d4cf3549dd70a26420e9aad1b769e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-livedata-core-2.0.0.aar\3f5d4cf3549dd70a26420e9aad1b769e\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c41bac1bcbdc0e1dd34921a02beab2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\core-runtime-2.0.0.aar\1c41bac1bcbdc0e1dd34921a02beab2b\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha04.aar\8e8ca190e8e6c2f5e5545c99fe57bd34\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0-alpha04] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\lifecycle-viewmodel-2.1.0-alpha04.aar\8e8ca190e8e6c2f5e5545c99fe57bd34\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\a9cf9c568d3b80bdae87783f68bd1976\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-base:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\play-services-ads-base-17.2.0.aar\a9cf9c568d3b80bdae87783f68bd1976\AndroidManifest.xml:5:5-44
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.google.android.gms:play-services-ads:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-17.2.0.aar\d0026be2ecb5fb22377bbace40e42cb8\AndroidManifest.xml:23:9-49
+	android:targetSdkVersion
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\admin\Desktop\Android\RankQuest_App-master\app\src\main\AndroidManifest.xml
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:17.2.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-ads-lite-17.2.0.aar\175a726aaf231d02fef8fafe5e1dae10\AndroidManifest.xml:36:13-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-sdk-api:16.3.0] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-measurement-sdk-api-16.3.0.aar\f7a2d643f5a21cdc2bc1d679e2c7847e\AndroidManifest.xml:25:22-65
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.0.1] C:\Users\admin\.gradle\caches\transforms-1\files-1.1\jetified-play-services-basement-16.0.1.aar\ab444d042b36da31cd79bdc85021062e\AndroidManifest.xml:24:13-58

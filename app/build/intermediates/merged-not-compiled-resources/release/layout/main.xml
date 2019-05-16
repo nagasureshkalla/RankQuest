@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Homepage.MainActivity"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TableLayout
+            android:layout_width="match_parent"
+            android:stretchColumns="*"
+            android:shrinkColumns="*"
+        android:layout_marginTop="30dp"
+            android:layout_height="wrap_content">
+            <TableRow>
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/card1"
+                    android:clickable="true"
+                    style="@style/Mainactivity"
+                    android:focusable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    app:cardCornerRadius="@dimen/collegesCardRadius"
+                    app:strokeColor="@color/orange"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="EAMCET"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="@dimen/mainPageTextSize"
+                        android:textStyle="bold" />
+
+
+                </com.google.android.material.card.MaterialCardView>
+
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/card2"
+                    android:clickable="true"
+                    style="@style/Mainactivity"
+                    android:focusable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    app:cardCornerRadius="@dimen/collegesCardRadius"
+                    app:strokeColor="@color/orange"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="POLYCET"
+
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="@dimen/mainPageTextSize"
+                        android:textStyle="bold" />
+
+
+                </com.google.android.material.card.MaterialCardView>
+            </TableRow>
+            <TableRow>
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/card4"
+                    android:clickable="true"
+                    style="@style/Mainactivity"
+                    android:focusable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    app:cardCornerRadius="@dimen/collegesCardRadius"
+                    app:strokeColor="@color/orange"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="ECET"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="@dimen/mainPageTextSize"
+                        android:textStyle="bold" />
+
+                </com.google.android.material.card.MaterialCardView>
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/card5"
+                    android:clickable="true"
+                    style="@style/Mainactivity"
+                    android:focusable="true"
+                    android:foreground="?android:attr/selectableItemBackground"
+                    android:layout_width="match_parent"
+                    android:layout_height="100dp"
+                    app:cardCornerRadius="@dimen/collegesCardRadius"
+                    app:strokeColor="@color/orange"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="PGECET"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="@dimen/mainPageTextSize"
+                        android:textStyle="bold" />
+
+
+                </com.google.android.material.card.MaterialCardView>
+            </TableRow>
+           <!-- <TableRow>
+                <com.google.android.material.card.MaterialCardView
+                    android:id="@+id/card10"
+                    style="@style/CardBaground"
+                    android:layout_width="match_parent"
+                    android:layout_height="70dp"
+                    android:layout_marginStart="5dp"
+                    android:layout_marginTop="12dp"
+                    android:layout_marginEnd="5dp"
+                    android:layout_marginBottom="2dp"
+                    android:visibility="invisible"
+                    app:cardCornerRadius="@dimen/collegesCardRadius"
+                    app:cardElevation="8dp"
+                    app:cardPreventCornerOverlap="true"
+                    app:cardUseCompatPadding="false"
+                    app:layout_constraintBottom_toBottomOf="parent"
+                    app:layout_constraintEnd_toEndOf="parent"
+                    app:layout_constraintHorizontal_bias="0.0"
+                    app:layout_constraintStart_toStartOf="parent"
+                    app:layout_constraintTop_toTopOf="parent"
+                    app:strokeColor="@color/colorPrimaryDark"
+                    app:strokeWidth="1dp">
+
+                    <TextView
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:gravity="center"
+                        android:text="JEE MAINS"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="25dp"
+                        android:textStyle="bold"
+                        android:visibility="visible" />
+
+                </com.google.android.material.card.MaterialCardView>
+            </TableRow>-->
+        </TableLayout>
+    <!-- <android.support.v7.widget.CardView
+            android:id="@+id/card3"
+            android:layout_width="match_parent"
+            android:layout_height="70dp"
+
+            android:layout_marginTop="12dp"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.0"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@+id/card2">
+
+            <TextView
+                android:layout_width="389dp"
+                android:layout_height="68dp"
+                android:gravity="center"
+                android:text="ICET"
+                android:textColor="@color/colorPrimary"
+                android:textSize="25dp"
+                android:textStyle="bold" />
+
+            <ImageView
+                android:layout_width="44dp"
+                android:layout_height="match_parent"
+                android:layout_gravity="right"
+                android:src="@drawable/ic_chevron_right_black_24dp" />
+        </android.support.v7.widget.CardView> -->
+    <TableLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="50dp"
+                    android:stretchColumns="*"
+                    android:shrinkColumns="*">
+
+                    <TableRow>
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/card6"
+                        android:clickable="true"
+                        style="@style/Mainactivity"
+                        android:focusable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+                        android:layout_width="wrap_content"
+                        android:layout_height="90dp"
+                        app:strokeColor="@color/black_overlay"
+                        app:strokeWidth="1dp">
+
+                        <ImageView
+                            android:id="@+id/imageView1"
+                            android:layout_width="@dimen/mainPageLogowidth"
+                            android:layout_gravity="center"
+                            android:layout_height="@dimen/mainPagelogoHeight"
+                            app:srcCompat="@drawable/ic_people_outline_black_24dp" />
+                    </com.google.android.material.card.MaterialCardView>
+
+
+
+                    <com.google.android.material.card.MaterialCardView
+                        android:id="@+id/card7"
+                        android:clickable="true"
+                        style="@style/Mainactivity"
+                        android:focusable="true"
+                        android:foreground="?android:attr/selectableItemBackground"
+
+                        android:layout_width="wrap_content"
+                        android:layout_height="90dp"
+
+                        app:strokeColor="@color/black_overlay"
+                        app:strokeWidth="1dp">
+
+                        <ImageView
+                            android:id="@+id/imageView2"
+                            android:layout_width="@dimen/mainPageLogowidth"
+                            android:layout_gravity="center"
+                            android:layout_height="@dimen/mainPagelogoHeight"
+                            android:scaleType="fitCenter"
+                            android:src="@drawable/ic_share_black_24dp" />
+                    </com.google.android.material.card.MaterialCardView>
+                    </TableRow>
+
+                    <TableRow>
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/card8"
+                            android:clickable="true"
+                            style="@style/Mainactivity"
+                            android:focusable="true"
+                            android:foreground="?android:attr/selectableItemBackground"
+                            android:layout_width="wrap_content"
+                            android:layout_height="91dp"
+                            app:strokeColor="@color/black_overlay"
+                            app:strokeWidth="1dp">
+
+                            <ImageView
+                                android:id="@+id/imageView3"
+                                android:layout_width="@dimen/mainPageLogowidth"
+                                android:layout_gravity="center"
+                                android:layout_height="@dimen/mainPagelogoHeight"
+                                app:srcCompat="@drawable/ic_websites_black_24dp" />
+                        </com.google.android.material.card.MaterialCardView>
+
+                        <com.google.android.material.card.MaterialCardView
+                            android:id="@+id/card9"
+                            android:clickable="true"
+                            style="@style/Mainactivity"
+                            android:focusable="true"
+                            android:foreground="?android:attr/selectableItemBackground"
+
+                            android:layout_width="wrap_content"
+                            android:layout_height="90dp"
+                            app:strokeColor="@color/black_overlay"
+                            app:strokeWidth="1dp">
+
+                            <ImageView
+                                android:id="@+id/imageView4"
+                                android:layout_width="@dimen/mainPageLogowidth"
+                                android:layout_gravity="center"
+                                android:layout_height="@dimen/mainPagelogoHeight"
+                                app:srcCompat="@drawable/ic_feedback_black_24dp" />
+                        </com.google.android.material.card.MaterialCardView>
+
+                    </TableRow>
+
+
+                </TableLayout>
+
+
+    <com.google.android.gms.ads.AdView xmlns:ads="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/adViewEamcet"
+        android:layout_width="match_parent"
+        android:layout_marginTop="15dp"
+        android:layout_height="match_parent"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7470227253711247/9833122529" />
+    </LinearLayout>
+</ScrollView>
